@@ -34,6 +34,9 @@ Meta Analysis (name change) - Kyle
   comparison of meta stock on that day
   comparison of META to other FNAG stocks on that day
     FANG > MANG
+    - Facebook rose in price before name change and recorrect after
+    - Nvidia rose prior to name change and continued to rise
+    - Miscrosoft dropped prior to name change and continued to fall
 
 
 What is the best investment? - Everyone
