@@ -6,7 +6,7 @@ Data Sets:
   coinbase
   MAANG (FAANG)
 
-Are we adding an API?
+Are we adding an API? NO!!!!!
 
 
 what is the the most volatile stock? - Alex
@@ -37,6 +37,17 @@ Meta Analysis (name change) - Kyle
     - Facebook rose in price before name change and recorrect after
     - Nvidia rose prior to name change and continued to rise
     - Miscrosoft dropped prior to name change and continued to fall
+
+
+    Looking at the stocks specifically FAANG stocks saw an average of about +1 in volatility with Netflix being the most volatile of the Group adding 2% volatility over this timeframe. This data can be found by looking at the "2018-01-01 to 2020-03-11" & "2020-03-13 and 2023-01-01" Date ranges in the code that calculates Volatility. It is also important to note that this '+1%' increase in volatility is also reflected in the Nvidia Stock within the same date ranges. 
+
+    Continuing with the above date ranges, compared to the other cryptocurrency, Bitcoins's volatility remained relatively tame, with the box-plot remaining virtually identical between the two timeframes, and the outliers only raising by about 10% maximum.
+
+    DOGE is where everything changed. on the outset of this project, we knew that Dogecoin would be interesting to graph, but due to the volatility jump from 70% to above 350%, we had to rethink how some of the graphs would make it into the slide-deck. For Perspective, was almost 9 times more volatile than Bitcoin and over 35 times more volatile than Google. 
+
+    Based on Volatility alone, it is simpler to make suggestions on what NOT to invest in. That would be crypto. 
+
+    1+1+2+1
 
 
 What is the best investment? - Everyone
